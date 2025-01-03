@@ -147,7 +147,7 @@ export default function FormPage() {
           null
         ):(
           <div className="bg-white p-4 rounded-md shadow m-5 w-2/3">
-          <h1 className="text-xl text-center justify-center bold mb-2">Fomrulario de solicitud</h1>
+          <h1 className="text-xl text-center justify-center bold mb-2">Formulario de solicitud</h1>
             <p className="text-md text-pretty text-opacity-80 justify-center bold text-justify p-3">Rellena los campos y revisa que la información sea correcta. ¡Gracias por contactarte con nosotrxs!</p>
         </div>
         )}
