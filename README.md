@@ -1,23 +1,19 @@
-# Desafío de Ingeniería Frontend
+# Formulario de Ingeniería Frontend
 
-Este desafío evalúa tu conocimiento en desarrollo frontend moderno usando:
+Conocimiento en desarrollo frontend moderno usando:
 - Next.js
 - React Hook Form
 - Zod
 - Tailwind CSS
 - TypeScript
 
-## El Desafío
-
-Crea un formulario de solicitud de empleo de múltiples pasos con las siguientes características:
-
-### Características Requeridas
+### Características
 
 1. **Implementación de Formulario Multi-paso**
-   - Crea 3 pasos distintos: Información Personal, Experiencia y Revisión
-   - Implementa un indicador de progreso
-   - Permite navegación entre pasos
-   - Agrega validación apropiada entre pasos
+   - Pages: Información Personal, Experiencia y Revisión
+   - Progress indicator
+   - Navigation across steps
+   - Validation in-step
 
 2. **Campos del Formulario**
    - **Paso de Información Personal:**
@@ -49,7 +45,7 @@ Crea un formulario de solicitud de empleo de múltiples pasos con las siguientes
    - Hazlo visualmente atractivo
    - Asegura un diseño responsivo
 
-### Características Adicionales (Bonus)
+### Características Adicionales
 
 - Persistencia del formulario usando localStorage
 - Estados de carga durante el envío
@@ -78,23 +74,3 @@ Crea un formulario de solicitud de empleo de múltiples pasos con las siguientes
    - Estados de carga
    - Estados de error
    - Retroalimentación de éxito
-
-## Comenzando
-
-1. Revisa la estructura existente del proyecto
-2. Planifica tu jerarquía de componentes
-3. Implementa los pasos del formulario
-4. Agrega validación
-5. Estiliza tus componentes
-6. Prueba exhaustivamente
-
-## Criterios de Evaluación
-
-- Organización y claridad del código
-- Uso de TypeScript
-- Implementación de validación de formularios
-- Diseño UI/UX
-- Manejo de errores
-- Implementación de características adicionales
-
-¡Buena suerte!

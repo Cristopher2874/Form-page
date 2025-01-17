@@ -60,7 +60,7 @@ export default function ReadMeChallenge() {
                 <Card className="h-full bg-gradient-to-b from-green-300 to-green-100">
                     <div className="bg-white p-4 rounded-md shadow m-5">
                         <CardHeader className="text-black">
-                            <CardTitle>Desafío Frontend</CardTitle>
+                            <CardTitle>Formulario Frontend</CardTitle>
                             <CardDescription className="text-black text-opacity-75">
                                 Notas de logros, issues y mejoras
                             </CardDescription>
@@ -130,7 +130,7 @@ export default function ReadMeChallenge() {
                                                 </li>
                                                 <li>
                                                     <p className="font-semibold">Agregar animaciones entre pasos</p>
-                                                    <p>No agregado :/</p>
+                                                    <p>Pendiente</p>
                                                 </li>
                                                 <li>
                                                     <p className="font-semibold">Formulario mayormente responsivo:</p>
@@ -143,16 +143,13 @@ export default function ReadMeChallenge() {
                                                 </li>
                                             </ul>
                                         </div>
-                                        <div className="space-y-4">
-                                            <h2 className="text-2xl font-semibold">No descubrí el secreto :(</h2>
-                                        </div>
                                     </div>
                                 </div>
                             </section>
                         </CardContent>
                         <CardFooter>
                             <Link
-                                href="https://wa.me/4446568541"
+                                href="https://github.com/Cristopher2874"
                                 className="inline-flex items-center px-6 py-3 text-lg font-medium text-white bg-green-600 rounded-lg hover:bg-green-100 transition-colors mt-4 group"
                             >
                                 <p className="group-hover:translate-y-[-1px] duration-300 transition-transform group-hover:text-black">¡Contáctame!</p>
